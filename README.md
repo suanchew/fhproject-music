@@ -14,4 +14,3 @@ The tool will provide a visual representation of musical patterns identified bas
 In the `documentation` directory, you will find presentation slides, and project related documents.
 
 Link to `google drive` project template: https://docs.google.com/document/d/1bQ4ZOjj6DuQI6Q6wixUOmtXKIPpLts2tC7IhzlyeRkw/edit?usp=sharing
-
