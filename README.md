@@ -11,6 +11,6 @@ In this project, we use the Circle of Fifths to develop a tool that helps the us
 
 The tool will provide a visual representation of musical patterns identified based on the user’s inputs. Furthermore, using mathematical transformations, the tool can recommend chord progressions and other techniques. 
 
-In the `documentation` directory, you will find presentation slides, and project related documents.
+In the `docs` directory, you will find presentation slides, and project related documents.
 
 Link to `google drive` project template: https://docs.google.com/document/d/1bQ4ZOjj6DuQI6Q6wixUOmtXKIPpLts2tC7IhzlyeRkw/edit?usp=sharing
